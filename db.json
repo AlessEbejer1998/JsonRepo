@@ -119,5 +119,7 @@
       }
     ]
   },
- 
+  "autoload": true,
+  "language": "en",
+  "country": "US"
 }
